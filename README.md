@@ -10,6 +10,7 @@
 - Javascript
 - React
 - Gatsby
+- Next.js
 - Expo
 - GraphQL
 
