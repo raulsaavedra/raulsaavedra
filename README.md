@@ -9,7 +9,6 @@
 - HTML and CSS
 - Javascript
 - React
-- Gatsby
 - Next.js
 - Expo
 - GraphQL
