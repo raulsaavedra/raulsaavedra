@@ -8,6 +8,7 @@
 #### Current technologies:
 - HTML and CSS
 - Javascript
+- Typescript
 - React
 - Next.js
 - Expo
