@@ -1,9 +1,8 @@
-## Hello! Raul here. :wave:
+## Hello! I am Raul. :wave:
 
 ### I am a frontend developer :fire:
 
-- I work with <strong>React</strong> 🎯
-- I am learning <b>Full-Stack Development</b> (with <b>GraphQL</b>)
+- I work with <strong>React</strong> and <strong>Next.js</strong> 🎯
 
 #### Current technologies:
 - HTML and CSS
@@ -11,6 +10,5 @@
 - Typescript
 - React
 - Next.js
-- GraphQL
 
 Checkout my pinned projects below! :arrow_down:
