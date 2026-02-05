@@ -16,6 +16,6 @@ I’m a Full Stack developer based in Columbus, Ohio. I work at Xepelin (B2B fin
 - Terraform
 - Postgres, DynamoDB, SQLite
 
-If you’re new here, start with the pinned repositories. If something is useful or you spot an issue, feel free to open an issue or start a discussion.
+Feel free to check out my pinned repositories below.
 
 X: [@raulsaavedra_](https://x.com/raulsaavedra_)
