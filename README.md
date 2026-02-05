@@ -2,6 +2,7 @@
 
 I’m a Full Stack developer based in Columbus, Ohio. I work at Xepelin (B2B fintech) as a Software Engineer.
 
+### Projects I am working on
 - Web apps and UI work (React, Next.js)
 - Backend APIs and integrations (TypeScript, Node.js)
 - Tooling I use in my own workflows (developer tooling and personal-life tooling, sometimes CLI and TUI, sometimes web apps)
