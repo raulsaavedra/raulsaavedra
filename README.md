@@ -4,7 +4,7 @@ I’m a Full Stack developer based in Columbus, Ohio. I work at Xepelin (B2B fin
 
 - Web apps and UI work (React, Next.js)
 - Backend APIs and integrations (TypeScript, Node.js)
-- Tooling I use in my own workflow (developer tooling and personal-life tooling, sometimes CLI and TUI, sometimes web apps)
+- Tooling I use in my own workflows (developer tooling and personal-life tooling, sometimes CLI and TUI, sometimes web apps)
 - Experiments and prototypes when I’m learning something new
 
 ### Tech I use a lot
