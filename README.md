@@ -1,10 +1,7 @@
 ## Hello! I'm Raul. 👋
 
-I’m a Full Stack developer based in Columbus, Ohio. I work at Xepelin (B2B fintech) as a Software Engineer, building and maintaining web products across frontend and backend.
+I’m a Full Stack developer based in Columbus, Ohio. I work at Xepelin (B2B fintech) as a Software Engineer.
 
-On my personal GitHub you’ll mostly find:
-
-### Projects
 - Web apps and UI work (React, Next.js)
 - Backend APIs and integrations (TypeScript, Node.js)
 - Tooling I use in my own workflow (developer tooling and personal-life tooling, sometimes CLI and TUI, sometimes web apps)
@@ -20,4 +17,4 @@ On my personal GitHub you’ll mostly find:
 
 If you’re new here, start with the pinned repositories. If something is useful or you spot an issue, feel free to open an issue or start a discussion.
 
-X: `@raulsaavedra_`
+X: [@raulsaavedra_](https://x.com/raulsaavedra_)
