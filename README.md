@@ -11,7 +11,7 @@ I’m a Full Stack developer based in Columbus, Ohio. I work at Xepelin (B2B fin
 ### Tech I use a lot
 - TypeScript
 - React, Next.js
-- Node.js, Bun
+- Go, Node.js, Bun
 - AWS
 - Terraform
 - Postgres, DynamoDB, SQLite
